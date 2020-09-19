@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "92242838331",
+    "firebase_url": "https://surat-grocery-mart.firebaseio.com",
+    "project_id": "surat-grocery-mart",
+    "storage_bucket": "surat-grocery-mart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92242838331:android:30035d33f6006f2eb12d1e",
+        "android_client_info": {
+          "package_name": "com.example.SuratGroceryMart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92242838331-ruhjutb867gkqqn8ds4kthaleaapdt91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.SuratGroceryMart",
+            "certificate_hash": "948f1af814718f7e9acf48c18fcb7cd8a9153c9e"
+          }
+        },
+        {
+          "client_id": "92242838331-p7cf2kddismlutn4b1sbispm1fglp3hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgMKmLvMJLqJmj71tzNzYHqGSP5EAC-lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92242838331-p7cf2kddismlutn4b1sbispm1fglp3hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
